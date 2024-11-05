@@ -7,7 +7,7 @@
 
 <div class="row">
   <div class="col-lg-12">
-    <h1 class="page-header">리스트 제목 수정테스트입니다 시간은 3:46</h1>
+    <h1 class="page-header">리스트 제목 수정테스트입니다 시간은 4:08</h1>
   </div>
   <!-- /.col-lg-12 -->
 </div>
